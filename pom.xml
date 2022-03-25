@@ -99,7 +99,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <ur>http://65.0.107.185:9980/hema457/repository/facebook-releases/</url>
+	      <url>http://65.0.107.185:9980/hema457/repository/facebook-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
